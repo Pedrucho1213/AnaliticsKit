@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:network-framework-compat:5.0.3.300@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79e5c5d5e293cdc4cdc582033265553f/network-framework-compat-5.0.3.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41f5cfceda0ac3322803d7b21afe84ad/network-framework-compat-5.0.3.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41f5cfceda0ac3322803d7b21afe84ad/network-framework-compat-5.0.3.300/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41f5cfceda0ac3322803d7b21afe84ad/network-framework-compat-5.0.3.300/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/network-framework-compat/5.0.3.300/da39a3ee5e6b4b0d3255bfef95601890afd80709/network-framework-compat-5.0.3.300-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/network-framework-compat/5.0.3.300/da39a3ee5e6b4b0d3255bfef95601890afd80709/network-framework-compat-5.0.3.300-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

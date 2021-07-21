@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAnaliticsAppExample</string>
+    <string name="accion_2">accion 2</string>
+    <string name="accion_1">Accion 1</string>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:hianalytics:6.0.0.301@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebe84483046d2d21e934847583e85b5c/hianalytics-6.0.0.301/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b5a2b5c68d85e620d90357ad634298/hianalytics-6.0.0.301/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b5a2b5c68d85e620d90357ad634298/hianalytics-6.0.0.301/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b5a2b5c68d85e620d90357ad634298/hianalytics-6.0.0.301/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/hianalytics/6.0.0.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/hianalytics-6.0.0.301-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/hianalytics/6.0.0.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/hianalytics-6.0.0.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
